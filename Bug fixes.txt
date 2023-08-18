@@ -1,0 +1,7 @@
+Initial project bug:
+	After catching a coin the the_coin pointer is not clearing the record of the catched coin.
+        >> status(fixed).
+
+Fixes made after video release:
+	1. random speeds with initial min. speed.
+	2. random positioning in a particular region only.

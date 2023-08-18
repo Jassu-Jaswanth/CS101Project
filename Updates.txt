@@ -1,0 +1,9 @@
+New Things that I had added are:
+	1. Bomb coin/ enemy coins which tears the lasso.
+	2. Number coin where random number pops of instead of coin.
+	3. Health/ lives for lasso.
+	4. level system which can be extended.
+	5. Starting Homepage with lasso title.
+	5. Help page in homepage.
+	6. Randomising the positions of poppings of coin, bomb and numbers.
+	7. Parabolic paths for coins, bombs and numbers with random angels of projection.
